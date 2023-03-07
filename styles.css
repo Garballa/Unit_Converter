@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+
+#main-div {
+  margin: 100px;
+  width: 550px;
+  height: 729px;
+  border: 2px solid black;
+}
+#input-div {
+  background-color: #ccc1ff;
+}
